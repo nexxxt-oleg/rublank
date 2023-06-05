@@ -1,0 +1,25 @@
+.bxr-news-image img{
+    max-width: 100%;
+}
+
+.bxr-news-image h1 {
+    margin: 20px 0px;
+}
+
+.news-detail-new a {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.news-detail-new ul {
+    padding-left: 20px;
+}
+
+.news-detail-new ul li {
+    color: #ffcc00;
+    padding-bottom: 5px;
+}
+
+.news-detail-new ul li span {
+    color: black;
+}

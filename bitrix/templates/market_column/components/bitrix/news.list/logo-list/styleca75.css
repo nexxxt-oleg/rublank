@@ -1,0 +1,25 @@
+.logo-slide {
+    vertical-align: middle;
+    float: none !important;
+    display: inline-block !important;
+    object-fit: scale-down;
+    padding: 10px;
+}
+
+.logo-slider {
+    margin: 0px 15px;
+}
+
+.logo-slider.slick-slider .slick-prev, .logo-slider.slick-slider .slick-next {
+    width: 30px;
+    height: 30px;
+    left: -15px;
+    margin-top: -15px;
+    position: absolute;
+    top: 50%;
+}
+
+.logo-slider.slick-slider .slick-next {
+    left: auto;
+    right: -15px;
+}
