@@ -15751,3 +15751,9 @@ div.bx-auth-serv-icons a:hover,
 .sale-acountpay-block .form-group .form-control:focus {
     border: 1px solid #ffcc00;
 }
+.bxr-color-button.slick-prev {
+    background-image: url("../img/slide-button-arrow-prev.png") !important;
+}
+.bxr-color-button.slick-next {
+    background-image: url("../img/slide-button-arrow-next.png") !important;
+}
